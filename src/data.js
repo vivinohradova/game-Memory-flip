@@ -1,0 +1,92 @@
+export const date = [
+  {
+    id: 0,
+    imgUrl: "../public/logos/ajax.png",
+    label: "Ajax",
+    matched: false,
+  },
+  {
+    id: 1,
+    imgUrl: "../public/logos/bem.png",
+    label: "Bem",
+    matched: false,
+  },
+  {
+    id: 2,
+    imgUrl: "../public/logos/bootstrap.png",
+    label: "Bootstrap",
+    matched: false,
+  },
+  {
+    id: 3,
+    imgUrl: "../public/logos/css.png",
+    label: "Css",
+    matched: false,
+  },
+  {
+    id: 4,
+    imgUrl: "../public/logos/git.png",
+    label: "Git",
+    matched: false,
+  },
+  {
+    id: 5,
+    imgUrl: "../public/logos/html.png",
+    label: "HTML",
+    matched: false,
+  },
+  {
+    id: 6,
+    imgUrl: "../public/logos/jest.png",
+    label: "Jest",
+    matched: false,
+  },
+  {
+    id: 7,
+    imgUrl: "../public/logos/js.png",
+    label: "JS",
+    matched: false,
+  },
+  {
+    id: 8,
+    imgUrl: "../public/logos/mui.png",
+    label: "Mui",
+    matched: false,
+  },
+  {
+    id: 9,
+    imgUrl: "../public/logos/oop.png",
+    label: "OOP",
+    matched: false,
+  },
+  {
+    id: 10,
+    imgUrl: "../public/logos/react.png",
+    label: "React",
+    matched: false,
+  },
+  {
+    id: 11,
+    imgUrl: "../public/logos/redux.png",
+    label: "Redux",
+    matched: false,
+  },
+  {
+    id: 12,
+    imgUrl: "../public/logos/rest.png",
+    label: "Rest",
+    matched: false,
+  },
+  {
+    id: 13,
+    imgUrl: "../public/logos/sass.png",
+    label: "Sass",
+    matched: false,
+  },
+  {
+    id: 14,
+    imgUrl: "../public/logos/ts.png",
+    label: "TS",
+    matched: false,
+  },
+];

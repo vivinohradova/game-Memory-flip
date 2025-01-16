@@ -22,7 +22,11 @@ function App() {
                 : "bg-gradient-to-r from-[#775B59] to-[#32161F]"
             }`}
             key={card.id}
-            onClick={() => handleSelect(card)}
+            onClick={() => {
+              if (!card.matched && firstCard !== card && secondCard !== card) {
+                handleSelect(card);
+              }
+            }}
           >
             <img
               className={`h-full w-full object-contain ${
